@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.hero-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 93vh;
+  background-image: url(https://getwallpapers.com/wallpaper/full/1/5/c/8123.jpg);
+  background-position: center;
+  background-size: cover;
+    
+    
+    
+    
+    
+    
+
+}
