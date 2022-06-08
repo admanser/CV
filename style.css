@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    margin: 0px;
+    flex-direction: column;
+}
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(122, 122, 116);
+    height: 100px;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+    font-size: 20px;
+    
+}
+
+.btn {
+    
+    background-color: #ffffff;
+    color: rgb(4, 255, 45);
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
